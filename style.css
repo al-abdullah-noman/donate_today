@@ -1,0 +1,140 @@
+.banner {
+    background-image: url(images/donation13.jpg);
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    color: azure;
+    text-align: center;
+
+
+}
+
+.intro {
+    padding-top: 40vh;
+    padding: 40vh 10vw;
+
+}
+
+.intro h1 {
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.btn {
+    background-color: red;
+    color: aliceblue;
+    padding: 8px 20px;
+    text-decoration: none;
+    font-weight: 800;
+    margin-top: 50px;
+}
+
+body {
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.middle {
+    text-align: center;
+    margin: 100px;
+    padding: 50px;
+}
+
+.money {
+    display: flex;
+    justify-content: center;
+
+}
+
+.amount {
+    margin: 20px;
+    padding: 20px;
+    font-weight: 800;
+
+}
+
+#target {
+    background-color: rgba(239, 56, 28, 0.639);
+    border: 2px solid gainsboro;
+    border-radius: 10px;
+    color: white;
+}
+
+.other {
+    color: rgb(150, 150, 150);
+}
+
+#dnt {
+    margin-top: 150px;
+}
+
+.plan {
+    display: flex;
+    justify-content: center;
+}
+
+.planname {
+    margin: 20px;
+    padding: 30px 20px;
+    font-weight: 800;
+    text-align: left;
+    background-color: rgb(236, 223, 213);
+    border: 2px solid white;
+    border-radius: 10px;
+
+}
+
+.planname img {
+    height: 50px;
+    width: 50px;
+}
+
+.explain {
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+
+.situation {
+    width: 50%;
+    /* margin-top: 50px; */
+}
+
+.situation img {
+    height: 90%;
+    width: 90%;
+}
+
+.situation h2 {
+    margin-top: 30px;
+    font-size: 40px;
+    color: red;
+}
+
+.update {
+    text-align: center;
+    margin: 80px 250px 50px 250px;
+}
+
+.email {
+    margin: 30px 250px 70px 250px;
+    text-align: center;
+    padding: 70px 100px;
+    background-color: blanchedalmond;
+}
+
+#email {
+    height: 28px;
+    width: 200px;
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+.footer {
+    background-color: black;
+    margin: 0;
+    color: wheat;
+    text-align: center;
+
+    padding: 50px 200px
+}
